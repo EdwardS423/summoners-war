@@ -1,0 +1,11 @@
+h1 {
+  font-size:60px;
+}
+h2{
+  font-size:25px;
+}
+.thin-red-border{
+  border-color: gray;
+  border-width: 10px;
+  border-style: solid;
+}
